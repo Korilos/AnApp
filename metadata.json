@@ -1,0 +1,7 @@
+{
+  "name": "Smart Dashboard",
+  "description": "A fullscreen dashboard featuring a real-time clock, local weather insights, and an AI-powered smart calendar that can plan your schedule.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
